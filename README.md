@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berk</h1>
-<h3 align="center">A passionatrying to become a fullstack developerte frontend developer from Turkey</h3>
+<h3 align="center">A passionate trying to become a fullstack developer</h3>
 
 - 🌱 I’m currently learning **HTML-CSS-JS**
 

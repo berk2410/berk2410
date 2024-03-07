@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Berk</h1>
+<h1 align="center">Hi! I'm Berk</h1>
 <h3 align="center">A passionate trying to become a fullstack developer</h3>
 
 - 🌱 I’m currently learning **HTML-CSS-JS**
